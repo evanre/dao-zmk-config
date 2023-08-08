@@ -36,8 +36,12 @@
             label = "LANG_MACRO";
             #binding-cells = <0>;
             bindings =
+                <&macro_press>,
+                <&kp LGUI>,
                 <&macro_tap>,
-                <&kp LGUI &kp SPACE>;
+                <&kp SPACE>,
+                <&macro_release>,
+                <&kp LEFT_GUI>;
         };
     };
 
