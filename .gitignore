@@ -1,0 +1,7 @@
+zmk
+zephyr
+.idea
+.west
+build
+ergonautkb-zmk-module
+modules

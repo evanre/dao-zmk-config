@@ -6,20 +6,9 @@ This is a repository for a ZMK Firmware for both Dao42 and Dao44 keyboards.
 * [dao44](https://github.com/yumagulovrn/dao-zmk-config/tree/dao44) branch is, obviously, for Dao44
 
 ## Default keymap
+Below representation was generated with [`keymap-drawer`](https://github.com/caksoylar/keymap-drawer) – check out the automatically generated layouts using the [automated Github workflow](https://github.com/caksoylar/keymap-drawer/tree/main#setting-up-an-automated-drawing-workflow) for each keyboard in the [`keymap-drawer` folder](keymap-drawer/), which is always up to date with the config.
 
-### Dao42
-
-Visual representation of the default keymap in keyboard-layout-editor: [KLE](http://www.keyboard-layout-editor.com/#/gists/67a81f6b83c65abcda5e7f32989a1688)
-
-This layout is heavily inspired by [this](https://github.com/aroum/Watchman-layouts)
-
-### Dao44
-
-Visual representation of the default keymap in keyboard-layout-editor: [KLE](http://www.keyboard-layout-editor.com/#/gists/c6ba0634e5b92366be9f324775394e66)
-
-This layout is heavily inspired by [this](https://github.com/KGOH/Jian-Info)
-
-Because of current ZMK limitations, Dao44 keymap is in the branch [dao44](https://github.com/yumagulovrn/dao-zmk-config/tree/dao44)
+![Keymap Representation](./keymap-drawer/dao.svg?raw=true "Keymap Representation")
 
 ## FAQ
 
