@@ -155,6 +155,7 @@ layers:
   - BT 1
   - BT CLR
   - Reset
+  - '&studio_unlock'
   - ''
   - ''
   - ''
@@ -163,8 +164,7 @@ layers:
   - ''
   - ''
   - ''
-  - ''
-  - ''
+  - '&studio_unlock'
   - Reset
   - {t: ▽, type: trans}
   - {type: held}
